@@ -15,17 +15,17 @@ A simple to-do App in JavaScript which uses local storage.
 - Tasks can be deleted at any stage using the **Delete** button next to each task.
 
 ## Project Structure
-├── index.html # The main HTML file for the app 
-├── App.js # JavaScript logic for task management and local storage 
-├── style.css # Styling for the app 
-└── README.md # Documentation for the app
+├── index.html # The main HTML file for the app.
+├── App.js # JavaScript logic for task management and local storage.
+├── style.css # Styling for the app.
+└── README.md # Documentation for the app.
+
 
 **
 ## Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/mechamorafa/my-tasks.git
-**
 2. Open the index.html file in your browser to start using the app.
 
 ## Requirements
